@@ -1,0 +1,2 @@
+
+I developed the car racing game called "Cars", which is one of my dreams that I want to realize, with Unity. In this 3D game, different vehicle options are offered to the user. The user can choose more powerful vehicles with the coins he collects in the game and receives according to the order of completing the race. 4 races take place with cars created using AI technology. This project, in which I used the difficulty of making vehicle physics and AI technology, contributed to me in terms of coding and design.
